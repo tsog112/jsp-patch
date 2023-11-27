@@ -28,3 +28,6 @@ contact_id int primary key auto_increment
 insert into contact_admin (user_id, e_mail, message) values ('121','sample@naver.com', 'hello world!');
 
 alter table contact_admin modify contact_id int not null auto_increment;
+
+desc contact_admin;
+show tables;
