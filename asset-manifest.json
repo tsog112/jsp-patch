@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jsp-patch/static/css/main.66b61557.css",
+    "main.js": "/jsp-patch/static/js/main.55278a12.js",
+    "static/js/512.e096f372.chunk.js": "/jsp-patch/static/js/512.e096f372.chunk.js",
+    "index.html": "/jsp-patch/index.html",
+    "main.66b61557.css.map": "/jsp-patch/static/css/main.66b61557.css.map",
+    "main.55278a12.js.map": "/jsp-patch/static/js/main.55278a12.js.map",
+    "512.e096f372.chunk.js.map": "/jsp-patch/static/js/512.e096f372.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66b61557.css",
+    "static/js/main.55278a12.js"
+  ]
+}
